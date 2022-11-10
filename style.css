@@ -1,0 +1,19 @@
+.mid_div {
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+    display: block;
+}
+
+button{
+    
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+
+}
+#increment-btn{
+    background:cornsilk
+    
+    
+}
